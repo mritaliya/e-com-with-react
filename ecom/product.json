@@ -1,0 +1,169 @@
+[
+    {
+        "id": "p1",
+        "name":" MARGHERITA ",
+        "size":"Small",
+        "price": "₹120",
+        "image": "/images/MARGHERITA.png"
+    },
+    {
+        
+        "id": "p2",
+        "name":" DOUBLE CHEESE MARGHERITA ",
+        "size":"Small",
+        "price": "₹140",
+        "image": "/images/DOUBLE CHEESE MARGHERITA.png"
+    },
+    {
+     
+        "id": "p3",
+        "name":" FARM HOUSE ",
+        "size":"medium",
+        "price": "₹140",
+        "image": "/images/FARM HOUSE.png"   
+    },
+    {
+        
+        "id": "p4",
+        "name":" PEPPY PANEER ",
+        "size":"large",
+        "price": "₹190",
+        "image": "/images/PEPPY PANEER.png"
+    },
+    {
+        
+        "id": "p5",
+        "name":" MEXICAN GREEN WAVE",
+        "size":"extra large",
+        "price": "₹300",
+        "image": "/images/MEXICAN GREEN WAVE.png"
+    },
+    {
+     
+        "id": "p6",
+        "name":" DELUXE VEGGIE ",
+        "size":"Small",
+        "price": "₹100",
+        "image": "/images/DELUXE VEGGIE.png"   
+    },
+    {
+      
+        "id": "p7",
+        "name":" VEG EXTRAVAGANZA",
+        "size":"medium",
+        "price": "₹170",
+        "image": "/images/VEG EXTRAVAGANZA.png"
+    },
+    {
+       
+        "id": "p8",
+        "name":" CHEESE N CORN ",
+        "size":"large",
+        "price": "₹220",
+        "image": "/images/CHEESE N CORN.png"
+    },
+    {
+       
+        "id": "p9",
+        "name":"FRESH VEGGIE ",
+        "size":"medium",
+        "price": "₹140",
+        "image": "/images/FRESH VEGGIE.png"
+    },
+    {
+       
+        "id": "p10",
+        "name":" VEGGIE PARADISE ",
+        "size":"Small",
+        "price": "₹130",
+        "image": "/images/VEGGIE PARADISE.png"
+    },
+    {
+       
+        "id": "p11",
+        "name":" PANEER MAKHANI ",
+        "size":"large",
+        "price": "₹210",
+        "image": "/images/PANEER MAKHANI.png"
+    },
+    {
+       
+        "id": "p12",
+        "name":" INDI TANDOORI PANEER ",
+        "size":"Small",
+        "price": "₹135",
+        "image": "/images/INDI TANDOORI PANEER.png"
+    },
+    {
+       
+        "id": "p13",
+        "name":" CHICKEN GOLDEN DELIGHT ",
+        "size":"medium",
+        "price": "₹400",
+        "image": "/images/CHICKEN GOLDEN DELIGHT.png"
+    },
+    {
+       
+        "id": "p14",
+        "name":" NON VEG SUPREME ",
+        "size":"Small",
+        "price": "₹330",
+        "image": "/images/NON VEG SUPREME.png"
+    },
+    {
+       
+        "id": "p15",
+        "name":" CHICKEN DOMINATOR ",
+        "size":"extra large",
+        "price":"₹600",
+        "image": "/images/CHICKEN DOMINATOR.png"
+    },
+    {
+       
+        "id": "p16",
+        "name":" PAPER BARBECUE & ONION ",
+        "size":"large",
+        "price": "₹450",
+        "image": "/images/PAPER BARBECUE & ONION.png"
+    },
+    {
+       
+        "id": "p17",
+        "name":" PAPER BARBECUE CHICKEN",
+        "size":"Small",
+        "price": "₹390",
+        "image": "/images/PAPER BARBECUE CHICKEN.png"
+    },
+    {
+       
+        "id": "p18",
+        "name":" CHICKEN SAUSAGE ",
+        "size":"midum",
+        "price": "₹520",
+        "image": "/images/CHICKEN SAUSAGE.png"
+    },
+    {
+       
+        "id": "p19",
+        "name":" CHICKEN FIESTA ",
+        "size":"midum",
+        "price": "₹440",
+        "image": "/images/CHICKEN FIESTA.png"
+    },
+    {
+       
+        "id": "p20",
+        "name":" INDI CHICKEN TIKKA ",
+        "size":"extra large",
+        "price": "₹640",
+        "image": "/images/INDI CHICKEN TIKKA.png"
+    },
+    {
+       
+        "id": "p21",
+        "name":" CHICKEN PEPPERONI ",
+        "size":"Small",
+        "price": "₹120",
+        "image": "/images/CHICKEN PEPPERONI.png"
+    }
+]
